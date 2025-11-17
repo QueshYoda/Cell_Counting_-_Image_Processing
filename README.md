@@ -92,7 +92,7 @@ This project compares three different automated cell counting methods for micros
 
 ## 📁 Project Structure
 ```
-cell-counting-methods/
+Cell_Counting_-_Image_Processing/
 │
 ├── README.md
 ├── cells.png                     
