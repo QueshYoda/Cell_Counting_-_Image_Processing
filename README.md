@@ -205,7 +205,7 @@ Kernel: MORPH_ELLIPSE (3×3)
 ## 🤝 Contact
 
 **Baha Demirtaş**  
-- LinkedIn: [Baha Demirtas](www.linkedin.com/in/baha-demirtas)
+- LinkedIn: [Baha Demirtas](https://www.linkedin.com/in/baha-demirtas/)
 - GitHub: [QueshYoda](https://github.com/QueshYoda)
 
 
