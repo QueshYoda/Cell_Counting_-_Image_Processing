@@ -108,10 +108,7 @@ cell-counting-methods/
 
 ## 🚀 Installation & Usage
 
-### Prerequisites
-```bash
-pip install -r requirements.txt
-```
+`
 
 ### Requirements
 ```txt
@@ -120,25 +117,6 @@ numpy>=1.24.0
 matplotlib>=3.7.0
 ```
 
-### Run the Code
-```bash
-python cell_counting.py
-```
-
-### Code Structure
-```python
-# Method 1: Canny + Contours
-python cell_counting.py --method 1
-
-# Method 2: Hough Circles
-python cell_counting.py --method 2
-
-# Method 3: OTSU + Morphology
-python cell_counting.py --method 3
-
-# Run all methods and compare
-python cell_counting.py --method all
-```
 
 ## 📈 Performance Comparison
 
