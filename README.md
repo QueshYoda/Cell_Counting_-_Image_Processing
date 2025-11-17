@@ -106,17 +106,12 @@ Cell_Counting_-_Image_Processing/
     └── Cell_Counting_Report.pdf
 ```
 
-## 🚀 Installation & Usage
-
-`
-
 ### Requirements
 ```txt
 opencv-python>=4.8.0
 numpy>=1.24.0
 matplotlib>=3.7.0
 ```
-
 
 ## 📈 Performance Comparison
 
